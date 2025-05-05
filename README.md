@@ -57,7 +57,3 @@ Epoch 1 | Train Loss: X.XXXX | Val Loss: X.XXXX | Time: X.XX sec
 
 - Inspired by the "Attention is All You Need" paper by Vaswani et al.
 - Developed with TensorFlow and Python for educational purposes.
-
-## Contact
-
-For questions or issues, open a GitHub issue or contact your-email@example.com.
